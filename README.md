@@ -1,5 +1,25 @@
 # React Digital Business Card
 
-This repository includes a React built prototype of a business card component that I made as a way to practice my React skills.
+A digital business card built with **React**, made up of small, reusable components.
 
-Note: This prototype is an exercise from Bob Zirroll's React course on the Scrimba platform: [https://scrimba.com/learn-react-c0e](https://scrimba.com/learn-react-c0e)
+## Features
+
+- Profile header with contact details
+- About and Interests sections
+- Footer with social media icons
+- Component-based structure (`BusinessCard`, `Info`, `About`, `Interests`, `Footer`)
+
+## Tech stack
+
+React · JavaScript · Vite
+
+## Getting started
+
+```bash
+npm install
+npm run dev
+```
+
+## Credits
+
+Built while following Bob Ziroll's [Learn React](https://scrimba.com/learn-react-c0e) course on Scrimba.
